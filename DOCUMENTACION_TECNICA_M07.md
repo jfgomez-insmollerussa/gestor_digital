@@ -1,5 +1,11 @@
 # Documentacio tecnica M07 - Gestor Digital Signage Edifici H
 
+Repositori GitHub:
+
+```txt
+https://github.com/jfgomez-insmollerussa/gestor_digital
+```
+
 ## 1. Introduccio
 
 Aquest projecte consisteix en adaptar un projecte Laravel existent per convertir-lo en un gestor de Digital Signage per a l'IES Mollerussa, concretament pensat per a les pantalles informatives de l'Edifici H.
