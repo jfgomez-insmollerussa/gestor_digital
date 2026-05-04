@@ -6,6 +6,12 @@ Repositori GitHub:
 https://github.com/jfgomez-insmollerussa/gestor_digital
 ```
 
+Video explicatiu:
+
+```txt
+https://drive.google.com/file/d/1AREO8MZ_wBCSsHuv-w-q2f4PY1CMo9yF/view?usp=sharing
+```
+
 ## 1. Introduccio
 
 Aquest projecte consisteix en adaptar un projecte Laravel existent per convertir-lo en un gestor de Digital Signage per a l'IES Mollerussa, concretament pensat per a les pantalles informatives de l'Edifici H.
